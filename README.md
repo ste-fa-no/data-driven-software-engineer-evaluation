@@ -5,3 +5,7 @@
 1. **Fork this Repository**: please fork this repository to your own GitHub account to work independently
 2. **Complete the Tasks**: clone your fork locally, complete the tasks, and commit your changes to your fork
 3. When your work is complete, send the link to your repository to the following e-mail address: *softwarearchitect@minervadigitalintelligence.com*
+
+## Deadline 
+
+You have 48 hours from the time of receiving this link to submit your completed repository link via email.
